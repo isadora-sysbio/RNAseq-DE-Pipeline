@@ -1,0 +1,13 @@
+@HD	VN:1.0	SO:unsorted
+@SQ	SN:chrMini	LN:52
+@PG	ID:hisat2	PN:hisat2	VN:2.2.2	CL:"/home/isadora-amorim/miniconda3/envs/rnaseq/bin/hisat2-align-s --wrapper basic-0 -f -x index/mini_index -S alignments/mini.sam --read-lengths 12 -U reference/mini_reads.fa"
+read1	0	chrMini	9	1	12M	*	0	0	ATCGATCGATCG	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read1	272	chrMini	11	1	12M	*	0	0	CGATCGATCGAT	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read1	272	chrMini	19	1	12M	*	0	0	CGATCGATCGAT	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read1	256	chrMini	21	1	12M	*	0	0	ATCGATCGATCG	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read1	256	chrMini	29	1	12M	*	0	0	ATCGATCGATCG	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read2	16	chrMini	37	1	12M	*	0	0	ATCGATCGATCG	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read2	272	chrMini	1	1	12M	*	0	0	ATCGATCGATCG	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read2	256	chrMini	11	1	12M	*	0	0	CGATCGATCGAT	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read2	256	chrMini	23	1	12M	*	0	0	CGATCGATCGAT	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5
+read2	272	chrMini	17	1	12M	*	0	0	ATCGATCGATCG	IIIIIIIIIIII	AS:i:0	ZS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU	NH:i:5

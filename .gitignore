@@ -1,0 +1,14 @@
+# Raw sequencing data
+data/raw/*.fastq.gz
+
+# FastQC archives
+results/*_fastqc.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Operating system files
+.DS_Store

@@ -1,0 +1,2 @@
+chrMini	mini	exon	1	26	.	+	.	gene_id "TP53"; transcript_id "TP53_t1";
+chrMini	mini	exon	27	52	.	+	.	gene_id "MYC"; transcript_id "MYC_t1";
